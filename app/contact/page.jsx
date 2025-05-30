@@ -29,20 +29,22 @@ function Contact() {
         opacity: 1,
         transition: { delay: 1, duration: 0.4, ease: "easeIn" },
       }}
-      className="py-12"
+      className="py-8 px-4 sm:py-12"
     >
-      <div className="container mx-auto flex justify-center">
-        <ul className="flex flex-col gap-16 max-w-md w-full">
+      <div className="container mx-auto max-w-xl sm:max-w-3xl">
+        <ul className="flex flex-col gap-10 sm:gap-16">
           {info.map((item, index) => (
-            <li key={index} className="flex items-center gap-8">
-              <div className="w-[72px] h-[72px] bg-[#27272c] text-accent rounded flex items-center justify-center text-[32px]">
+            <li key={index} className="flex items-center gap-6 sm:gap-8">
+              <div className="w-14 h-14 sm:w-18 sm:h-18 bg-[#27272c] text-accent rounded flex items-center justify-center text-2xl sm:text-3xl">
                 {item.icon}
               </div>
               <div>
-                <p className="text-white/70 uppercase tracking-wide font-semibold">
+                <p className="text-white/70 uppercase tracking-wide font-semibold text-xs sm:text-sm">
                   {item.title}
                 </p>
-                <h3 className="text-2xl font-semibold">{item.description}</h3>
+                <h3 className="text-lg sm:text-2xl font-semibold break-words">
+                  {item.description}
+                </h3>
               </div>
             </li>
           ))}
