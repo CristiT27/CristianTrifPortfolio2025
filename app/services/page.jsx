@@ -7,7 +7,7 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "I specialize in crafting qualitative and responsive web applications that prioritize both performance and user experience. With expertise in React, Next.js, and Tailwind CSS, I deliver scalable solutions adaptable to a wide range of projects and collaboration styles.",
+      "I am specialized in crafting qualitative and responsive web applications that prioritize both performance and user experience. With expertise in React, Next.js, and Tailwind CSS, I deliver scalable solutions adaptable to a wide range of projects and collaboration styles.",
     href: "",
   },
   {
@@ -21,7 +21,7 @@ const services = [
     num: "03",
     title: "SEO",
     description:
-      "I provide SEO services aimed at improving website visibility and driving organic traffic. Through effective keyword strategies, site structure optimization, and content enhancement, platforms can achieve higher rankings in search engine results and connect with their target audience.",
+      "I can build SEO services aimed at improving website visibility and driving organic traffic. Through effective keyword strategies, site structure optimization, and content enhancement, platforms can achieve higher rankings in search engine results and connect with their target audience.",
     href: "",
   },
   {

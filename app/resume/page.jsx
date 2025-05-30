@@ -59,7 +59,7 @@ const experience = {
   icon: FaBriefcase,
   title: "My experience",
   description:
-    "I currently work as a Test Analyst and Software Developer at Bertrandt Sibiu, contributing to Porsche PIWIS and Volkswagen Commercial Vehicle projects, where I’ve gained experience with Java and Vector CANoe. My background also includes a role as a Graphic Designer at S4P, where I honed skills in Adobe Photoshop and Illustrator. Additionally, internships in finance controlling and project management have provided me with valuable insights into the business environment, enhancing my ability to align technical solutions with organizational goals.",
+    "I currently work as a Software Developer and Test Analyst at Bertrandt Sibiu, contributing to Porsche PIWIS and Volkswagen Commercial Vehicle projects, where I’ve gained experience with Java and Vector CANoe. My background also includes a role as a Graphic Designer at S4P, where I honed skills in Adobe Photoshop and Illustrator. Additionally, internships in finance controlling and project management have provided me with valuable insights into the business environment, enhancing my ability to align technical solutions with organizational goals.",
   items: [
     {
       company: "Bertrandt Engineering",
