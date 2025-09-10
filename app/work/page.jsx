@@ -19,6 +19,31 @@ const projects = [
   {
     num: "01",
     category: "frontend",
+    title: "SneakPeek",
+    description:
+      "SneakPeek is a modern Ecommerce project that showcases my skills with React, Next.js, Typescript, Tailwind, PostgreSQL, Prisma and Zod.",
+
+    stack: [
+      {
+        name: "Next.js",
+      },
+      {
+        name: "TailwindCSS",
+      },
+      {
+        name: "React",
+      },
+      {
+        name: "Typescript",
+      },
+    ],
+    image: "/assets/work/SneakPeek.png",
+    live: "https://sneak-peek-hazel.vercel.app/",
+    github: "https://github.com/CristiT27/SneakPeek",
+  },
+  {
+    num: "02",
+    category: "frontend",
     title: "Soirée",
     description:
       "Soirée is a modern restaurant website I built using Next.js and Tailwind CSS. It combines sleek design with seamless performance, delivering a visually stunning and responsive experience that captures the essence of contemporary dining.",
@@ -39,7 +64,7 @@ const projects = [
     github: "https://github.com/CristiT27/restaurant-soiree-project",
   },
   {
-    num: "02",
+    num: "03",
     category: "frontend",
     title: "CineMust",
     description:
@@ -68,7 +93,7 @@ const projects = [
   },
 
   {
-    num: "03",
+    num: "04",
     category: "frontend",
     title: "PackApp",
     description:
@@ -96,7 +121,7 @@ const projects = [
   },
 
   {
-    num: "04",
+    num: "05",
     category: "backend",
     title: "GuestListApp",
     description:
@@ -117,7 +142,7 @@ const projects = [
     github: "https://github.com/CristiT27/guest-list-project",
   },
   {
-    num: "05",
+    num: "06",
     category: "frontend",
     title: "My Old Portfolio",
     description:
@@ -141,7 +166,7 @@ const projects = [
     github: "https://github.com/CristiT27/CristianTrifPortfolio",
   },
   {
-    num: "06",
+    num: "07",
     category: "frontend",
     title: "Smart Grocery",
     description:
@@ -166,7 +191,7 @@ const projects = [
   },
 
   {
-    num: "07",
+    num: "08",
     category: "frontend",
     title: "Ticket4Me",
     description:
@@ -191,7 +216,7 @@ const projects = [
   },
 
   {
-    num: "08",
+    num: "09",
     category: "frontend",
     title: "PasswordGenerator",
     description:
