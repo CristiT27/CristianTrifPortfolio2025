@@ -34,7 +34,7 @@ const projects = [
         name: "React",
       },
       {
-        name: "Typescript",
+        name: "TS",
       },
     ],
     image: "/assets/work/SneakPeek.png",
