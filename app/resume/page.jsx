@@ -27,7 +27,7 @@ import {
 const about = {
   title: "About me",
   description:
-    "I am a skilled Software Developer with 2 years of professional experience in Java and Vector CANoe, bringing strong expertise in frontend development and UI/UX design. Passionate about crafting high-quality, responsive web applications, I excel with modern frontend technologies like React, Next.js, and Tailwind CSS. I also have solid backend skills in Java and Spring Boot, enabling me to build robust full-stack solutions. Combining technical proficiency with a business mindset, I deliver seamless, user-focused digital experiences that drive engagement and performance. My focus is firmly on frontend development, where I leverage my creativity and technical knowledge to bring intuitive interfaces to life.",
+    "I am a skilled Software Developer with 3 years of professional experience in Java and Vector CANoe, bringing strong expertise in frontend development and UI/UX design. Passionate about crafting high-quality, responsive web applications, I excel with modern frontend technologies like React, Next.js, and Tailwind CSS. I also have solid backend skills in Java and Spring Boot, enabling me to build robust full-stack solutions. Combining technical proficiency with a business mindset, I deliver seamless, user-focused digital experiences that drive engagement and performance. My focus is firmly on frontend development, where I leverage my creativity and technical knowledge to bring intuitive interfaces to life.",
   info: [
     {
       fieldName: "Name",

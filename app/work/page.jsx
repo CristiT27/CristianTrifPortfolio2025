@@ -18,35 +18,6 @@ import WorkSliderButtons from "@/components/ui/WorkSliderButtons";
 const projects = [
   {
     num: "01",
-    category: "Fullstack",
-    title:
-      "Confidential Real Project - Launch scheduled for later this year (will be updated with project details and links)",
-    description:
-      "This will be my first solo real project, currently in testing phase. It is the MVP, PWA version of the final app that will be implementetd in React Native. It is a platform designed to help people dealing with a common stressful planning situation.",
-
-    stack: [
-      {
-        name: "Prisma",
-      },
-      {
-        name: "Next.js",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "React",
-      },
-      {
-        name: "TS",
-      },
-    ],
-    image: "",
-    live: "https://sneak-peek-hazel.vercel.app/",
-    github: "https://github.com/CristiT27/SneakPeek",
-  },
-  {
-    num: "02",
     category: "frontend",
     title: "SneakPeek - in progress",
     description:
@@ -71,7 +42,7 @@ const projects = [
     github: "https://github.com/CristiT27/SneakPeek",
   },
   {
-    num: "03",
+    num: "02",
     category: "frontend",
     title: "Soirée",
     description:
@@ -93,7 +64,7 @@ const projects = [
     github: "https://github.com/CristiT27/restaurant-soiree-project",
   },
   {
-    num: "04",
+    num: "03",
     category: "frontend",
     title: "CineMust",
     description:
@@ -122,7 +93,7 @@ const projects = [
   },
 
   {
-    num: "05",
+    num: "04",
     category: "frontend",
     title: "PackApp",
     description:
@@ -150,7 +121,7 @@ const projects = [
   },
 
   {
-    num: "06",
+    num: "05",
     category: "backend",
     title: "GuestListApp",
     description:
@@ -171,7 +142,7 @@ const projects = [
     github: "https://github.com/CristiT27/guest-list-project",
   },
   {
-    num: "07",
+    num: "06",
     category: "frontend",
     title: "My Old Portfolio",
     description:
@@ -195,7 +166,7 @@ const projects = [
     github: "https://github.com/CristiT27/CristianTrifPortfolio",
   },
   {
-    num: "08",
+    num: "07",
     category: "frontend",
     title: "Smart Grocery",
     description:
@@ -220,7 +191,7 @@ const projects = [
   },
 
   {
-    num: "09",
+    num: "08",
     category: "frontend",
     title: "Ticket4Me",
     description:
@@ -242,6 +213,35 @@ const projects = [
     image: "/assets/work/Ticket4Me.png",
     live: "https://cristit27.github.io/CristianTrifCinemaBookingProject/",
     github: "https://github.com/CristiT27/CristianTrifCinemaBookingProject",
+  },
+  {
+    num: "09",
+    category: "Fullstack",
+    title:
+      "Confidential Real Project - Launch scheduled for later this year (will be updated with project details and links)",
+    description:
+      "This will be my first solo real project, currently in testing phase. It is the MVP, PWA version of the final app that will be implementetd using React Native and Expo. It is a platform designed to help people dealing with a common stressful planning situation.",
+
+    stack: [
+      {
+        name: "Prisma",
+      },
+      {
+        name: "Next.js",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "React",
+      },
+      {
+        name: "TS",
+      },
+    ],
+    image: "/assets/work/Locked.png",
+    live: "https://sneak-peek-hazel.vercel.app/",
+    github: "https://github.com/CristiT27/SneakPeek",
   },
 
   {
