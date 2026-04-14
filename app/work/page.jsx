@@ -41,7 +41,7 @@ const projects = [
         name: "TS",
       },
     ],
-    image: "/assets/work/SneakPeek.png",
+    image: "",
     live: "https://sneak-peek-hazel.vercel.app/",
     github: "https://github.com/CristiT27/SneakPeek",
   },

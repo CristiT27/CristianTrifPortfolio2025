@@ -127,7 +127,7 @@ const skills = {
   icon: FaBolt,
   title: "My skills",
   description:
-    "Proficient in front-end technologies including HTML, CSS, JavaScript, React, Next.js, Bootstrap, and Tailwind CSS for building responsive and modern web applications. Experienced in back-end development with Java, Spring Boot, and database management using MySQL. Skilled in UI/UX design tools such as Figma, Adobe Illustrator, and Adobe Photoshop to create visually compelling and user-friendly interfaces.",
+    "Proficient in front-end technologies including TypeScript, JavaScript, React, Next.js, HTML, CSS, Bootstrap, and Tailwind CSS for building responsive and modern web applications. Experienced in back-end development with Java, Spring Boot, and database management using MySQL, PostgreSQL, Prisma. Skilled in UI/UX design tools such as Figma, Adobe Illustrator, and Adobe Photoshop to create visually compelling and user-friendly interfaces.",
 
   skillList: [
     {
