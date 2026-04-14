@@ -211,8 +211,8 @@ const projects = [
       },
     ],
     image: "/assets/work/Ticket4Me.png",
-    live: "",
-    github: "https://github.com/CristiT27/",
+    live: "https://cristit27.github.io/CristianTrifCinemaBookingProject/",
+    github: "https://github.com/CristiT27/CristianTrifCinemaBookingProject",
   },
 
   {
@@ -252,6 +252,12 @@ const projects = [
 
     stack: [
       {
+        name: "React",
+      },
+      {
+        name: "TS",
+      },
+      {
         name: "Prisma",
       },
       {
@@ -260,16 +266,10 @@ const projects = [
       {
         name: "PostgreSQL",
       },
-      {
-        name: "React",
-      },
-      {
-        name: "TS",
-      },
     ],
     image: "/assets/work/Locked.png",
-    live: "https://sneak-peek-hazel.vercel.app/",
-    github: "https://github.com/CristiT27/SneakPeek",
+    live: "",
+    github: "https://github.com/CristiT27/",
   },
 ];
 
