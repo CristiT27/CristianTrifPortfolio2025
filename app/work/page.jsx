@@ -214,8 +214,36 @@ const projects = [
     live: "https://cristit27.github.io/CristianTrifCinemaBookingProject/",
     github: "https://github.com/CristiT27/CristianTrifCinemaBookingProject",
   },
+
   {
     num: "09",
+    category: "frontend",
+    title: "PasswordGenerator",
+    description:
+      "PasswordGenerator was my first simple React app, designed to quickly create strong and secure passwords. It showcases my initial exploration into React development with a clean and functional user interface.",
+    stack: [
+      {
+        name: "React",
+      },
+      {
+        name: "JavaScript",
+      },
+      {
+        name: "HTML",
+      },
+      {
+        name: "CSS",
+      },
+      {
+        name: "Bootstrap",
+      },
+    ],
+    image: "/assets/work/PasswordGenerator.png",
+    live: "https://cristit27.github.io/CristianTrifPasswordGenerator/",
+    github: "https://github.com/CristiT27/CristianTrifPasswordGenerator",
+  },
+  {
+    num: "10",
     category: "Fullstack",
     title:
       "Confidential Real Project - Launch scheduled for later this year (will be updated with project details and links)",
@@ -242,34 +270,6 @@ const projects = [
     image: "/assets/work/Locked.png",
     live: "https://sneak-peek-hazel.vercel.app/",
     github: "https://github.com/CristiT27/SneakPeek",
-  },
-
-  {
-    num: "10",
-    category: "frontend",
-    title: "PasswordGenerator",
-    description:
-      "PasswordGenerator was my first simple React app, designed to quickly create strong and secure passwords. It showcases my initial exploration into React development with a clean and functional user interface.",
-    stack: [
-      {
-        name: "React",
-      },
-      {
-        name: "JavaScript",
-      },
-      {
-        name: "HTML",
-      },
-      {
-        name: "CSS",
-      },
-      {
-        name: "Bootstrap",
-      },
-    ],
-    image: "/assets/work/PasswordGenerator.png",
-    live: "https://cristit27.github.io/CristianTrifPasswordGenerator/",
-    github: "https://github.com/CristiT27/CristianTrifPasswordGenerator",
   },
 ];
 
