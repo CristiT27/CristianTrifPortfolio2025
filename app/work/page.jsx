@@ -19,7 +19,8 @@ const projects = [
   {
     num: "01",
     category: "Fullstack",
-    title: "Real Project - Launch scheduled for later this year",
+    title:
+      "Confidential Real Project - Launch scheduled for later this year (will be updated with project details and links)",
     description:
       "This will be my first solo real project, currently in testing phase. It is the MVP, PWA version of the final app that will be implementetd in React Native. It is a platform designed to help people dealing with a common stressful planning situation.",
 
