@@ -18,8 +18,36 @@ import WorkSliderButtons from "@/components/ui/WorkSliderButtons";
 const projects = [
   {
     num: "01",
+    category: "Fullstack",
+    title: "Real Project - Launch scheduled for later this year",
+    description:
+      "This will be my first solo real project, currently in testing phase. It is the MVP, PWA version of the final app that will be implementetd in React Native. It is a platform designed to help people dealing with a common stressful planning situation.",
+
+    stack: [
+      {
+        name: "Prisma",
+      },
+      {
+        name: "Next.js",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "React",
+      },
+      {
+        name: "TS",
+      },
+    ],
+    image: "/assets/work/SneakPeek.png",
+    live: "https://sneak-peek-hazel.vercel.app/",
+    github: "https://github.com/CristiT27/SneakPeek",
+  },
+  {
+    num: "02",
     category: "frontend",
-    title: "SneakPeek",
+    title: "SneakPeek - in progress",
     description:
       "SneakPeek is a modern Ecommerce project that showcases my skills with React, Next.js, Typescript, Tailwind, PostgreSQL, Prisma and Zod.",
 
@@ -42,7 +70,7 @@ const projects = [
     github: "https://github.com/CristiT27/SneakPeek",
   },
   {
-    num: "02",
+    num: "03",
     category: "frontend",
     title: "Soirée",
     description:
@@ -64,7 +92,7 @@ const projects = [
     github: "https://github.com/CristiT27/restaurant-soiree-project",
   },
   {
-    num: "03",
+    num: "04",
     category: "frontend",
     title: "CineMust",
     description:
@@ -93,7 +121,7 @@ const projects = [
   },
 
   {
-    num: "04",
+    num: "05",
     category: "frontend",
     title: "PackApp",
     description:
@@ -121,7 +149,7 @@ const projects = [
   },
 
   {
-    num: "05",
+    num: "06",
     category: "backend",
     title: "GuestListApp",
     description:
@@ -142,7 +170,7 @@ const projects = [
     github: "https://github.com/CristiT27/guest-list-project",
   },
   {
-    num: "06",
+    num: "07",
     category: "frontend",
     title: "My Old Portfolio",
     description:
@@ -166,7 +194,7 @@ const projects = [
     github: "https://github.com/CristiT27/CristianTrifPortfolio",
   },
   {
-    num: "07",
+    num: "08",
     category: "frontend",
     title: "Smart Grocery",
     description:
@@ -191,7 +219,7 @@ const projects = [
   },
 
   {
-    num: "08",
+    num: "09",
     category: "frontend",
     title: "Ticket4Me",
     description:
@@ -216,11 +244,11 @@ const projects = [
   },
 
   {
-    num: "09",
+    num: "10",
     category: "frontend",
     title: "PasswordGenerator",
     description:
-      "PasswordGenerator is my first simple React app, designed to quickly create strong and secure passwords. It showcases my initial exploration into React development with a clean and functional user interface.",
+      "PasswordGenerator was my first simple React app, designed to quickly create strong and secure passwords. It showcases my initial exploration into React development with a clean and functional user interface.",
     stack: [
       {
         name: "React",

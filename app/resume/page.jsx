@@ -19,6 +19,8 @@ import {
   SiTailwindcss,
   SiSpringboot,
   SiMysql,
+  SiTypescript,
+  SiPrisma,
 } from "react-icons/si";
 
 //about data
@@ -59,7 +61,7 @@ const experience = {
   icon: FaBriefcase,
   title: "My experience",
   description:
-    "I currently work as a Software Developer and Test Analyst at Bertrandt Sibiu, contributing to Porsche PIWIS and Volkswagen Commercial Vehicle projects, where I’ve gained experience with Java and Vector CANoe. My background also includes a role as a Graphic Designer at S4P, where I honed skills in Adobe Photoshop and Illustrator. Additionally, internships in finance controlling and project management have provided me with valuable insights into the business environment, enhancing my ability to align technical solutions with organizational goals.",
+    "Fullstack Developer with 3 years of experience, eager to work on projects that let me express my creativity and grow as an engineer. I have a genuine passion for building beautiful web interfaces which is why I started my programming journey with an intensive 8-month Frontend Development course in 2022. In 2023, I joined Bertrandt as a Java Software Developer on the Porsche PIWIS project, drawn by the combination of backend implementation and GUI user-flow logic a skillset I consider essential on my path towards a Software Architect career. Outside of work, I build full stack applications using React, Next.js, TypeScript, PostgreSQL, and Prisma, and I'm currently developing a solo product launching this autumn covering everything from React architecture and database design to Figma assets and a marketing campaign with teaser ads created in Runway. This end to-end thinking, from database to interface and from code to product, is what drives me. I'm looking for an environment where I can deepen my frontend expertise, collaborate with people who care about craft, and keep raising my own bar.",
   items: [
     {
       company: "Bertrandt Engineering",
@@ -135,6 +137,14 @@ const skills = {
     {
       icon: <FaCss3 />,
       name: "CSS",
+    },
+    {
+      icon: <SiTypescript />,
+      name: "TypeScript",
+    },
+    {
+      icon: <SiPrisma />,
+      name: "Prisma",
     },
     {
       icon: <SiJavascript />,
