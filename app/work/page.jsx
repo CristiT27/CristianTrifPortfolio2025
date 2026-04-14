@@ -211,8 +211,8 @@ const projects = [
       },
     ],
     image: "/assets/work/Ticket4Me.png",
-    live: "https://cristit27.github.io/CristianTrifCinemaBookingProject/",
-    github: "https://github.com/CristiT27/CristianTrifCinemaBookingProject",
+    live: "",
+    github: "https://github.com/CristiT27/",
   },
 
   {
